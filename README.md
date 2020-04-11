@@ -1,4 +1,4 @@
-<img src="https://findnerd.s3.amazonaws.com/imagedata/8040/8040.jpg" title="nightwatch" alt="nightwatch"/>
+<img src="https://i.ibb.co/Ltx76n2/8040.jpg" title="nightwatch" alt="nightwatch"/>
 
 # Nightwatch.js tryout playground
 
