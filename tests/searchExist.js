@@ -2,7 +2,7 @@
  * Simple Test Example
  */
 module.exports = {
-  "Coronavirus search exist test"(browser) {
+  "Coronavirus search exist simple test"(browser) {
     const searchSelector = ".search-form-control";
 
     browser
