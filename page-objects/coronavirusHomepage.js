@@ -3,7 +3,7 @@ module.exports = {
     {
       searchCountry(selector, value, fulfillSearch) {
         const page = this.waitForElementVisible(selector)
-          .pause(2500)
+          .pause(3000)
           .setValue(selector, value);
 
         fulfillSearch();

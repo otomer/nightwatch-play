@@ -12,6 +12,15 @@ module.exports = {
     default: {
       desiredCapabilities: {
         browserName: "chrome",
+        chromeOptions: {
+          args: ["--headless"],
+        },
+      },
+      screenshots: {
+        enabled: true,
+        on_error: true,
+        on_failure: true,
+        path: "tests_output/screenshots",
       },
     },
   },

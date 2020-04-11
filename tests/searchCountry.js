@@ -19,8 +19,8 @@ module.exports = {
     homepage.assert
       .urlContains(`?country=${countryCode}`)
       .assert.containsText("@titleSelector", countryName)
-      .assert.containsText("@countryIndicatorSelector", countryName)
-      .saveScreenshot("tests_output/searchCountry.png");
+      // .assert.containsText("@countryIndicatorSelector", countryName)
+      .saveScreenshot("tests_output/screenshots/searchCountry.png");
 
     browser.end();
   },
