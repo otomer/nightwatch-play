@@ -4,6 +4,14 @@
 
 > End-to-End testing with Nightwatch.js framework
 
+## Install/Upgrade ChromeDriver
+
+```brew cask install chromedriver```
+
+or 
+
+```brew cask upgrade chromedriver```
+
 ## Setup Nightwatch.js with first test
 
 ```shell
