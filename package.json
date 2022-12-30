@@ -3,7 +3,7 @@
   "description": "",
   "devDependencies": {
     "chromedriver": "^85.0.0",
-    "nightwatch": "^1.3.4"
+    "nightwatch": "^1.4.0"
   },
   "keywords": [],
   "license": "ISC",
